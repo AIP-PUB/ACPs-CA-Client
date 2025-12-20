@@ -205,7 +205,6 @@ curl http://localhost:8004/status
 2. **配置文件**: 避免在配置文件中包含敏感信息
 3. **网络安全**: 确保与 CA Server 的通信使用 HTTPS
 4. **定期更新**: 建议在证书到期前 30 天内更新
-5. **AIC 保护**: Agent Identity Code 应妥善保管，避免泄露
 
 ## 故障排除
 
