@@ -1,4 +1,4 @@
-# ACPs ATR CA 客户端（Python 版）
+# ACPs ATR CA 客户端（Python 版）（Deprecated）
 
 ## 1. 项目简要说明
 
